@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://tongxin0520.github.io/blog</id>
+    <title>Tongxin&apos;s Website</title>
+    <updated>2024-01-06T22:38:16.183Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://tongxin0520.github.io/blog"/>
+    <link rel="self" href="https://tongxin0520.github.io/blog/atom.xml"/>
+    <subtitle>不知道做什么的</subtitle>
+    <logo>https://tongxin0520.github.io/blog/images/avatar.png</logo>
+    <icon>https://tongxin0520.github.io/blog/favicon.ico</icon>
+    <rights>All rights reserved 2024, Tongxin&apos;s Website</rights>
+    <entry>
+        <title type="html"><![CDATA[分享一个小米徕卡水印及仿制的苹果水印快捷指令]]></title>
+        <id>https://tongxin0520.github.io/blog/post/GpLqIQNzi/</id>
+        <link href="https://tongxin0520.github.io/blog/post/GpLqIQNzi/">
+        </link>
+        <updated>2024-01-06T15:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TongXin 的 Adguard DNS 防护规则]]></title>
+        <id>https://tongxin0520.github.io/blog/post/XXP34PtD1/</id>
+        <link href="https://tongxin0520.github.io/blog/post/XXP34PtD1/">
+        </link>
+        <updated>2024-01-04T09:30:01.000Z</updated>
+    </entry>
+</feed>
